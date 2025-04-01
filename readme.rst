@@ -1,4 +1,4 @@
-#Crud-yugioh-PHP
+# Crud-yugioh-PHP
 Trabajo Practico para la universidad Instrucciones:
 <br>
 Abrir Wapp o Zampp y poner en marcha el servidor
